@@ -2,10 +2,10 @@
 license: MIT
 name: windows-powershell-ssh-remoting
 description: Use for remote PowerShell execution on a Windows remote host over SSH, especially when shell quoting or persistent sessions matter.
-compatibility: opencode
+compatibility: opencode, claude-code, cursor, codex
 metadata:
   version: 1.0.0
-  author: shared-by-kunan
+  author: kunanaxp
   tags: ssh, powershell, remoting, invoke-command, windows, agent
 ---
 
